@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://perinim.github.io/sitemap.xml
