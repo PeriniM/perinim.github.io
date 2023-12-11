@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Rotary Pendulum RL
+description: Open Source project aimed at controlling a real life rotary pendulum using RL algorithms
+img: assets/img/rotary_pybullet.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category:
+# related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

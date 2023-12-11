@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: SFSCON 2023 Hackathon - Winner Team
+description: Developed an infrastructure that connects IoT devices with a web service through a Raspberry Pi and custom APIs. A machine learning model is used to forecast the energy consumption of the building and to optimize the energy usage.
+img: assets/img/hackathon_sfscon.jpg
+redirect: https://www.hackathon.bz.it/project/squarai-1
 importance: 3
 category: fun
 ---

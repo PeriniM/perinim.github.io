@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Multi Agents HAED
+description: University project which focuses on simulating a multi-agent system to perform environment mapping. Agents, equipped with sensors, explore and record their surroundings, considering uncertainties in their readings.
+img: assets/img/multi_agents_haed.gif
+redirect: https://github.com/PeriniM/Multi-Agents-HAED
 importance: 3
-category: work
+# category: work
 ---
 
 Every project has a beautiful feature showcase page.

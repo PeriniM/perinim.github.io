@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MSc in Mechatronics Engineering - Robotics and Electronics
 
@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 Passionate about `Open Source` and `Product Development`.
 
-Over the years I have gained a broad range of knowledge in fields such as `robotics`, `product design and development`, and `artificial intelligence`.
+Over the years I have gained a broad range of knowledge in fields such as `robotics`, `hardware development`, `optimal control` algorithms and `artificial intelligence`.
 
-I took part to diverse project‑oriented competitions which resulted in excellent results, showcasing my ability to think critically and apply my knowledge to solve real‑world problems. 
+I took part to diverse project‑oriented competitions which resulted in excellent results, keeping in contact with many companies and applying my expertise to solve real study cases.

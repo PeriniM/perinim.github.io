@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: ESC Wireless for Modular Drones
+description: Modular drone architecture proposal and proof of concept. The preoject received maximum grade
+img: assets/img/wireless_esc.gif
 importance: 4
-category: fun
+# category: fun
 ---
 
 Every project has a beautiful feature showcase page.
