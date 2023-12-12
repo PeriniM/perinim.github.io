@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PROTO Challenge 2022 HIT - Winner Team
-description: 
+description: Analyzed the leg of a humanoid robot to increase its degree of freedom and allow it to squat asynchronously. Designed and topology-optimized a prototype of the leg to be manufactured with additive manufacturing techniques.
 img: assets/img/protochallenge-team.jpg
 redirect: https://www.trentinoinnovation.eu/comunicati/proto-challenge-2022-vince-il-team-di-studenti-universitari-che-ha-lavorato-con-oversonic-robotics/
 importance: 2

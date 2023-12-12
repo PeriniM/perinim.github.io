@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Industrial AI Challenge HIT - Second Place
-description: 
+description: Evaluated the performance of different machine learning models for predicting the results of quality tests related to driveline mechanical components. Developed a desktop app to gather data from the sensors and provide the predictions to the operator in real-time.
 img: assets/img/hit-ai-prize.jpg
 redirect: https://www.linkedin.com/feed/update/urn:li:activity:7003776484662231040/?utm_source=share&utm_medium=member_desktop
 importance: 1

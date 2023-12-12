@@ -1,7 +1,7 @@
 ---
 layout: page
 title: International Year of Light - Second Place
-description: 
+description: Designed and built a "smart flower" that moves to follow the sun and closes its petals when the weather is bad to reduce cleaning costs. Most of the components were 3D printed and an Arduino Nano was used to control the system.
 img: assets/img/unipd-iyl-journal.jpg
 # redirect: https://www.hackathon.bz.it/project/squarai-1
 importance: 1
