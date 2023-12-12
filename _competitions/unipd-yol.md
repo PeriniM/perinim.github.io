@@ -5,7 +5,7 @@ description:
 img: assets/img/unipd-iyl-journal.jpg
 # redirect: https://www.hackathon.bz.it/project/squarai-1
 importance: 1
-category: 2016
+category: 2015
 ---
 
 Every project has a beautiful feature showcase page.
