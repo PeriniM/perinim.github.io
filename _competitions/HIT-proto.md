@@ -7,6 +7,8 @@ redirect: https://www.trentinoinnovation.eu/comunicati/proto-challenge-2022-vinc
 importance: 2
 category: 2022
 duration: 3 months
+company: Oversonic Robotics
+company_url: https://oversonicrobotics.com/
 ---
 
 Every project has a beautiful feature showcase page.

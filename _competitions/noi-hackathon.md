@@ -7,6 +7,8 @@ redirect: https://hackathon.bz.it/project/energy-awareness-in-buildings
 importance: 2
 category: 2023
 duration: 24 hours
+company: Matrycs European Project
+company_url: https://matrycs.eu/
 ---
 
 Every project has a beautiful feature showcase page.

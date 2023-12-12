@@ -7,6 +7,8 @@ redirect: https://www.linkedin.com/feed/update/urn:li:activity:70037764846622310
 importance: 1
 category: 2022
 duration: 3 months
+company: Dana Incorporated
+company_url: https://www.dana.com/
 ---
 
 Every project has a beautiful feature showcase page.

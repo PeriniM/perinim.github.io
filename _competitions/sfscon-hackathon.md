@@ -7,6 +7,8 @@ redirect: https://www.hackathon.bz.it/project/squarai-1
 importance: 1
 category: 2023
 duration: 24 hours
+company: Infominds AG/SPA
+company_url: https://www.infominds.eu/
 ---
 
 Every project has a beautiful feature showcase page.
