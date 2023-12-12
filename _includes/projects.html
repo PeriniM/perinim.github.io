@@ -14,6 +14,10 @@
         {%- endif %}
         <div class="card-body">
           <h4 class="card-title">{{ project.title }}</h4>
+          <!-- if project.duration add a subtitle -->
+          {%- if project.duration -%}
+          <h7 class="card-subtitle mb-2 text-muted"><b>Duration: {{ project.duration }}</b></h7>
+          {%- endif %}
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}

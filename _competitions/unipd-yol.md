@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Hackathon NOI Summer 2023 - Winner Team
-description: Data analysis of a environmental dataset, from the data understanding to outlier removal and statistical evaluations. Developed a forecasting model (LSTM) for time-series analysis and validated the process. We presented our solution at the Matrycs European Project launch event in Brussels, Belgium.
-img: assets/img/hackathon_noi_summer.png
-redirect: https://hackathon.bz.it/project/energy-awareness-in-buildings
-importance: 3
-# category: fun
+title: International Year of Light - Second Place
+description: 
+img: assets/img/unipd-iyl-journal.jpg
+# redirect: https://www.hackathon.bz.it/project/squarai-1
+importance: 1
+category: 2016
 ---
 
 Every project has a beautiful feature showcase page.
