@@ -3,14 +3,17 @@ layout: page
 title: International Year of Light - Second Place
 description: Designed and built a "smart flower" that moves to follow the sun and closes its petals when the weather is bad to reduce cleaning costs. Most of the components were 3D printed and an Arduino Nano was used to control the system.
 img: assets/img/unipd-iyl-journal.jpg
-# redirect: https://www.hackathon.bz.it/project/squarai-1
+redirect: https://www.thingiverse.com/thing:1473731
 importance: 1
 category: 2015
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<!-- add a youtube video -->
+
+<div class="embed-responsive embed-responsive-16by9 rounded z-depth-1">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BQuwJciIhLw?si=bNa_G93Kog0s3PG3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

@@ -5,6 +5,7 @@ description: Developed a Deep Q-Network algorithm to train a simple and double p
 img: assets/img/value-policy-heatmaps.jpg
 importance: 2
 category: 
+redirect: https://github.com/PeriniM/DQN-SwingUp
 giscus_comments: false
 ---
 
