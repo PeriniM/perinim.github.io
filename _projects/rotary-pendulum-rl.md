@@ -19,14 +19,6 @@ This is an `open source` project aimed at introducing people to robotics, from t
 
 The project is divided into four parts: `hardware`, `firmware`, `simulation` and `control`. The hardware part is responsible for the mechanical design and the electronic components. The firmware part is responsible for the embedded systems implementation. The simulation part is responsible for the simulation of the rotary pendulum in a virtual environment. The control part is responsible for the implementation of the control algorithms.
 
-# Hardware
-
-# Firmware
-
-# Simulation
-
-# Control
-
 <!-- button to redirect to the github repository -->
 <div class="row justify-content-sm-center">
         <a href="https://github.com/PeriniM/Rotary-Pendulum-RL" class="btn btn-outline-primary btn-lg">GitHub Repo</a>
