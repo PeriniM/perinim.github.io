@@ -21,5 +21,7 @@ The project is divided into four parts: `hardware`, `firmware`, `simulation` and
 
 <!-- button to redirect to the github repository -->
 <div class="row justify-content-sm-center">
-        <a href="https://github.com/PeriniM/Rotary-Pendulum-RL" class="btn btn-outline-primary btn-lg">GitHub Repo</a>
+        <a href="https://github.com/PeriniM/Rotary-Pendulum-RL" class="btn btn-outline-info btn-lg">GitHub Repo</a>
+        <a href="https://cults3d.com/en/3d-model/various/rotary-pendulum-rl-open-source-project" class="btn btn-outline-info btn-lg">Cults3D</a>
+        <a href="https://www.thingiverse.com/thing:6377165" class="btn btn-outline-info btn-lg">Thingiverse</a>
 </div>
